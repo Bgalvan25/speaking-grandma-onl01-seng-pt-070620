@@ -1,5 +1,3 @@
-
-7
 # Speak to Grandma
 
 ## Objectives
